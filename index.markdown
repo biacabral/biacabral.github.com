@@ -1,6 +1,6 @@
 ---
 layout: default
-title: bia
+title: Blog da Bia
 ---
 
 This project <a href="http://github.com//biacabral.github.com">bia</a> is awesome.
